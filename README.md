@@ -25,16 +25,3 @@ I'm a Lead .NET Developer specialising in C#, WebAPI, Blazor, HTML, SCSS/CSS and
 <img align="left" alt="Photoshop" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="GIMP" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <img align="left" alt="Inkscape" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
-
-<br />
-<br />
-<br />
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
