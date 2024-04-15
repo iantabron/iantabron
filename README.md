@@ -2,7 +2,7 @@
 
 I'm a Lead .NET Developer specialising in C#, WebAPI, Blazor, HTML, SCSS/CSS and Javascript.
 
-## I'm a Fiance, Father-to-be, Developer, Drummer, Keyboardist, Motorsport enthusiast and more!
+## I'm a Fiancé, Father-to-be, Developer, Drummer, Keyboardist, Motorsport enthusiast and more!
 
 - 🔭 I’m currently working a lot with WebAPI and Blazor in .net 6/8
 - 🌱 I’m currently learning more about roslyn, in particular source generation
