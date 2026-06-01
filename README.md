@@ -1,11 +1,8 @@
-# Hi there, I'm Ian Tabron 👋
+# Hi there, I'm Ian 👋
 
 I'm a Lead .NET Developer specialising in C#, WebAPI, Blazor, HTML, SCSS/CSS and Javascript.
 
-## I'm a Fiancé, Father-to-be, Developer, Drummer, Keyboardist, Motorsport enthusiast and more!
-
-- 🔭 I’m currently working a lot with WebAPI and Blazor in .net 6/8
-- 🌱 I’m currently learning more about roslyn, in particular source generation
+- 🔭 I’m currently working a lot with WebAPI and Blazor in .net 8/10
 
 ## Languages and Tools
 
